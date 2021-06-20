@@ -5,7 +5,7 @@ import sys
 app = FastAPI()
 
 
-@app.get("/{active_ingredient}")
+@app.get("/app/{active_ingredient}")
 def read_item(active_ingredient: Optional[str] = None):
 
   import csv
