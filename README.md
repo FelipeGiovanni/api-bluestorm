@@ -36,4 +36,4 @@ A documentação do projeto é gerada pelo swagger e pode ser encontrada em loca
 A api faz uma busca por todos os medicamentos que utilizam o ingrediente e retorna uma lista de objetos que correspondem a busca.
 Esse ingrediente pode ser passado de forma inteira ou apenas parte dele. 
 O end point para a utilização é
->localhost/app/{ingrediente}
+>localhost:8000/app/{ingrediente}
