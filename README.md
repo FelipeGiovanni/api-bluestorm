@@ -25,7 +25,7 @@ ps: o nome do container e porta pode ser alterado
 1. Execute pip install requeriments.txt
 2. Execute o comando
 > uvicorn api.main:api --reloado
-3. O projeto sera executado na porta 8000 
+3. O projeto sera executado na porta 8000
 
 ps: caso opte pela execução local é aconcelhável criar um abiente virtual para a instalação dos requeriments
 
