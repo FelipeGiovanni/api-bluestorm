@@ -8,7 +8,7 @@ O projeto possui 5 arquivos (tests, main, controller, model e business)
 Aqui ficam os testes com os retornos das chamadas. Todas as funções foram testadas antes de serem implementadas.
 
 **api/main**
-Arquivo é responsável pelo start do serviço.
+Arquivo responsável pelo start do serviço.
 
 **api/controller**
 Esse aquivo é responsável pelo roteamento da API. As rotas criadas aqui são importadas pelo arquivo "main".
